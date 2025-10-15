@@ -1,5 +1,5 @@
-#import "@preview/CUGB-touying-simpl:1.0.0" :*
-// #import "../lib.typ" :*
+// #import "@preview/CUGB-touying-simpl:1.0.0" :*
+#import "../lib.typ" :*
 
 // https://typst.app/universe/package/codly
 #import "@preview/codly:1.3.0": *
@@ -49,7 +49,7 @@
     author: [房文祥],
     date: datetime.today(),
     institution: [数理学院],
-    logo:CUGB-logo,
+    // logo:CUGB-logo,
   ),
   footer-line-color: CUGB-blue,
 )
@@ -415,7 +415,7 @@ Write inline equations like #mi("x") or #mi[y].
   #colbreak()
   *Second column.第二列*
   #colbreak()
-  #CUGB-logo
+  // #CUGB-logo
   ],
 )
 
@@ -769,7 +769,7 @@ tip(title: "Best tip ever")[Check out this cool package]
 + *sdu-touying-simpl* #linkto("https://typst.app/universe/package/sdu-touying-simpl")
 #ending-slide[
   #align(center + horizon)[
-  #set text(size: 3em, weight: "bold", CUGB-blue)
+  #set text(size: 3.5em, weight: "bold")
 
   THANKS FOR ALL
 
