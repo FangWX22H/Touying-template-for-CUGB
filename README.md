@@ -2,7 +2,7 @@
 
 一个为中国地质大学(北京)设计的、基于 [Touying](https://github.com/touying-typst/touying) 的 Typst 演示文稿模板。
 
-本项目使用方法参考[sdu--touying-simpl](https://typst.app/universe/package/sdu-touying-simpl)，下载到本地，将本项目文件复制到C:\Users\25127\AppData\Local\typst\packages\preview下即可.
+本项目使用方法参考[sdu--touying-simpl](https://typst.app/universe/package/sdu-touying-simpl)，下载到本地，将本项目文件复制到C:\Users\xxx\AppData\Local\typst\packages\preview下即可.
 
 本项目采用 GPL-3.0 许可证。详见 [LICENSE](LICENSE) 文件。
 
